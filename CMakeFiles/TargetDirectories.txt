@@ -1,0 +1,3 @@
+/home/saeed/C++ for Computer Vision/Neural_networks_in_c++/CMakeFiles/mynetwork.dir
+/home/saeed/C++ for Computer Vision/Neural_networks_in_c++/CMakeFiles/edit_cache.dir
+/home/saeed/C++ for Computer Vision/Neural_networks_in_c++/CMakeFiles/rebuild_cache.dir
